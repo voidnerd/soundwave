@@ -3,7 +3,7 @@ import logo from '../assets/logo.svg';
 
 const Header = () => {
   return (
-  <nav className="flex items-center justify-between flex-wrap px-20 pt-1">
+  <nav className="flex items-center justify-between flex-wrap px-3 md:px-20 pt-1">
     <div className="flex items-center flex-shrink-0 text-white mr-6">
         <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
           <circle cx="30" cy="30" r="28.5" stroke="url(#paint0_linear)" stroke-width="3" stroke-linecap="round"/>
