@@ -9,11 +9,11 @@ const Hero = () => {
         <div className="flex-wrap sm:flex-shrink-0 w-full md:w-1/2 min-h-full self-end girl">
             <img src={girl} className="w-7/12 " />
         </div>
-        <div class="flex-wrap flex-shrink-0  w-full md:w-1/2 min-h-full pt-20">
-            <div className="m-auto">
-                <h1 className="text-white text-6xl">Feel the music</h1>
-                <p className="text-white text-2xl font-normal">Stream over 20 thousand songs with one click</p>
-                <button className="bg-secondary hover:bg-inverse text-white font-bold font-poppins py-2 px-4 rounded mt-10">Join Now</button>
+        <div class="flex-wrap flex-shrink-0  w-full md:w-1/2 md:pt-20">
+            <div className="my-auto">
+                <h1 className="text-white text-3xl sm:text-lg md:text-6xl">Feel the music</h1>
+                <p className="text-white text-sm md:text-2xl font-normal">Stream over 20 thousand songs with one click</p>
+                <button className="bg-secondary hover:bg-inverse text-white font-bold font-poppins py-2 px-4 rounded mt-10 mb-4">Join Now</button>
             </div>
         </div>
 
