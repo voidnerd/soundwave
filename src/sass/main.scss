@@ -2,8 +2,42 @@ body {
   font-family: 'Poppins', sans-serif;
   background-color: #2F303A;
 }
+.hero {
+  position: relative;
+  overflow: hidden;
+}
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.girl {
+ z-index: 10;
+}
+
+.circle-1 {
+  z-index: 5;
+  position: absolute;
+  bottom: 30px;
+  left:8%;
+  min-height: 200px;
+  max-height: 300px;
+  min-width: 200px;
+  max-width: 300px;
+  border-radius: 50%;
+}
+.circle-2 {
+  z-index: 5;
+  position: absolute;
+  top: 40px;
+  left:42%;
+  min-height: 100px;
+  min-width: 100px;
+  border-radius: 50%;
+}
+
+.circle-3 {
+  z-index: 5;
+  position: absolute;
+  bottom: -2px;
+  right: -10%;
+  min-height: 300px;
+  min-width: 300px;
+  border-radius: 50%;
 }
