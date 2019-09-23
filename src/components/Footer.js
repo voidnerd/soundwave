@@ -7,9 +7,9 @@ import facebook from '../assets/facebook.svg';
 const Footer = () => {
     return (
         <>
-        <div className="bg-inverse pt-3 pb-4 px-4 md:px-20 flex">
+        <div className="bg-inverse pt-3 pb-4 px-4 md:px-20 md:flex text-center">
 
-        <ul className="inline-flex">
+        <ul className="inline-flex text-center">
            
            <li>
              <a className="px-4 text-white" href="#">About</a>
@@ -19,7 +19,7 @@ const Footer = () => {
            </li>
          </ul>
 
-         <ul className="inline-flex ml-auto">
+         <ul className="inline-flex ml-auto mt-4 md:mt-0">
            
            <li>
              <a className="px-4 text-white flex" href="#"><img src={twitter} className="w-4" /><span className="pl-2">Twitter</span> </a>

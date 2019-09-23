@@ -9,7 +9,7 @@ const Contact = () => {
     
             <div className="flex-1 flex-wrap flex">
 
-                <h1 className="text-white text-5xl font-bold mx-0 my-5 self-center">Join the <span className="text-pink font-bold">Fun.</span></h1>
+                <h1 className="text-white text-5xl font-bold mx-auto md:mx-0 my-5  self-center">Join the <span className="text-pink font-bold">Fun.</span></h1>
             
   
             </div>

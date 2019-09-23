@@ -31,7 +31,7 @@ const Header = () => {
           </linearGradient>
           </defs>
         </svg>
-        <span className="font-semibold text-xl tracking-tight pl-2">Soundwave</span>
+        <span className="font-semibold text-sm md:text-xl tracking-tight pl-2">Soundwave</span>
     </div>
     <div className="block lg:hidden">
       <button className="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white">
