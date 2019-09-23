@@ -5,7 +5,7 @@ const Contact = () => {
 
   return (
     <>
-    <div className="md:flex items-stretch px-2 md:px-20 pt-32 pb-24">
+    <div id="join" className="md:flex items-stretch px-2 md:px-20 pt-32 pb-24 relative ">
     
             <div className="flex-1 flex-wrap flex">
 
@@ -13,7 +13,7 @@ const Contact = () => {
             
   
             </div>
-            <div className="flex-1 flex-wrap  min-h-full relative">
+            <div className="flex-1 flex-wrap  min-h-full relative z-20">
                 <div className="bg-inverse pt-3 pb-2 rounded">
                     <form className="px-8 pt-6 pb-6 mb-4">
                         <div className="mb-4">
@@ -36,7 +36,7 @@ const Contact = () => {
         
                         </div>
                         <div className="flex items-center justify-between">
-                        <button className="bg-secondary w-full hover:bg-inverse text-white font-bold font-poppins py-2 px-4 mt-3 rounded focus:outline-none focus:shadow-outline" type="button">
+                        <button className="bg-secondary w-full hover:bg-pink text-white font-bold font-poppins py-2 px-4 mt-3 rounded focus:outline-none focus:shadow-outline" type="button">
                             Join Now
                         </button>
 
@@ -45,6 +45,8 @@ const Contact = () => {
 
                 </div>
             </div>
+
+            <div className="circle-4 bg-eclipes-blue z-10 hidden md:block"></div>
     </div>
     </>
   );

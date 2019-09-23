@@ -1031,40 +1031,8 @@ video {
   background-color: #44337a;
 }
 
-.bg-pink-100 {
-  background-color: #fff5f7;
-}
-
-.bg-pink-200 {
-  background-color: #fed7e2;
-}
-
-.bg-pink-300 {
-  background-color: #fbb6ce;
-}
-
-.bg-pink-400 {
-  background-color: #f687b3;
-}
-
-.bg-pink-500 {
-  background-color: #ed64a6;
-}
-
-.bg-pink-600 {
-  background-color: #d53f8c;
-}
-
-.bg-pink-700 {
-  background-color: #b83280;
-}
-
-.bg-pink-800 {
-  background-color: #97266d;
-}
-
-.bg-pink-900 {
-  background-color: #702459;
+.bg-pink {
+  background-color: #BC3A80;
 }
 
 .bg-primary {
@@ -1423,40 +1391,8 @@ video {
   background-color: #44337a;
 }
 
-.hover\:bg-pink-100:hover {
-  background-color: #fff5f7;
-}
-
-.hover\:bg-pink-200:hover {
-  background-color: #fed7e2;
-}
-
-.hover\:bg-pink-300:hover {
-  background-color: #fbb6ce;
-}
-
-.hover\:bg-pink-400:hover {
-  background-color: #f687b3;
-}
-
-.hover\:bg-pink-500:hover {
-  background-color: #ed64a6;
-}
-
-.hover\:bg-pink-600:hover {
-  background-color: #d53f8c;
-}
-
-.hover\:bg-pink-700:hover {
-  background-color: #b83280;
-}
-
-.hover\:bg-pink-800:hover {
-  background-color: #97266d;
-}
-
-.hover\:bg-pink-900:hover {
-  background-color: #702459;
+.hover\:bg-pink:hover {
+  background-color: #BC3A80;
 }
 
 .hover\:bg-primary:hover {
@@ -1815,40 +1751,8 @@ video {
   background-color: #44337a;
 }
 
-.focus\:bg-pink-100:focus {
-  background-color: #fff5f7;
-}
-
-.focus\:bg-pink-200:focus {
-  background-color: #fed7e2;
-}
-
-.focus\:bg-pink-300:focus {
-  background-color: #fbb6ce;
-}
-
-.focus\:bg-pink-400:focus {
-  background-color: #f687b3;
-}
-
-.focus\:bg-pink-500:focus {
-  background-color: #ed64a6;
-}
-
-.focus\:bg-pink-600:focus {
-  background-color: #d53f8c;
-}
-
-.focus\:bg-pink-700:focus {
-  background-color: #b83280;
-}
-
-.focus\:bg-pink-800:focus {
-  background-color: #97266d;
-}
-
-.focus\:bg-pink-900:focus {
-  background-color: #702459;
+.focus\:bg-pink:focus {
+  background-color: #BC3A80;
 }
 
 .focus\:bg-primary:focus {
@@ -11832,40 +11736,8 @@ video {
     background-color: #44337a;
   }
 
-  .sm\:bg-pink-100 {
-    background-color: #fff5f7;
-  }
-
-  .sm\:bg-pink-200 {
-    background-color: #fed7e2;
-  }
-
-  .sm\:bg-pink-300 {
-    background-color: #fbb6ce;
-  }
-
-  .sm\:bg-pink-400 {
-    background-color: #f687b3;
-  }
-
-  .sm\:bg-pink-500 {
-    background-color: #ed64a6;
-  }
-
-  .sm\:bg-pink-600 {
-    background-color: #d53f8c;
-  }
-
-  .sm\:bg-pink-700 {
-    background-color: #b83280;
-  }
-
-  .sm\:bg-pink-800 {
-    background-color: #97266d;
-  }
-
-  .sm\:bg-pink-900 {
-    background-color: #702459;
+  .sm\:bg-pink {
+    background-color: #BC3A80;
   }
 
   .sm\:bg-primary {
@@ -12224,40 +12096,8 @@ video {
     background-color: #44337a;
   }
 
-  .sm\:hover\:bg-pink-100:hover {
-    background-color: #fff5f7;
-  }
-
-  .sm\:hover\:bg-pink-200:hover {
-    background-color: #fed7e2;
-  }
-
-  .sm\:hover\:bg-pink-300:hover {
-    background-color: #fbb6ce;
-  }
-
-  .sm\:hover\:bg-pink-400:hover {
-    background-color: #f687b3;
-  }
-
-  .sm\:hover\:bg-pink-500:hover {
-    background-color: #ed64a6;
-  }
-
-  .sm\:hover\:bg-pink-600:hover {
-    background-color: #d53f8c;
-  }
-
-  .sm\:hover\:bg-pink-700:hover {
-    background-color: #b83280;
-  }
-
-  .sm\:hover\:bg-pink-800:hover {
-    background-color: #97266d;
-  }
-
-  .sm\:hover\:bg-pink-900:hover {
-    background-color: #702459;
+  .sm\:hover\:bg-pink:hover {
+    background-color: #BC3A80;
   }
 
   .sm\:hover\:bg-primary:hover {
@@ -12616,40 +12456,8 @@ video {
     background-color: #44337a;
   }
 
-  .sm\:focus\:bg-pink-100:focus {
-    background-color: #fff5f7;
-  }
-
-  .sm\:focus\:bg-pink-200:focus {
-    background-color: #fed7e2;
-  }
-
-  .sm\:focus\:bg-pink-300:focus {
-    background-color: #fbb6ce;
-  }
-
-  .sm\:focus\:bg-pink-400:focus {
-    background-color: #f687b3;
-  }
-
-  .sm\:focus\:bg-pink-500:focus {
-    background-color: #ed64a6;
-  }
-
-  .sm\:focus\:bg-pink-600:focus {
-    background-color: #d53f8c;
-  }
-
-  .sm\:focus\:bg-pink-700:focus {
-    background-color: #b83280;
-  }
-
-  .sm\:focus\:bg-pink-800:focus {
-    background-color: #97266d;
-  }
-
-  .sm\:focus\:bg-pink-900:focus {
-    background-color: #702459;
+  .sm\:focus\:bg-pink:focus {
+    background-color: #BC3A80;
   }
 
   .sm\:focus\:bg-primary:focus {
@@ -22634,40 +22442,8 @@ video {
     background-color: #44337a;
   }
 
-  .md\:bg-pink-100 {
-    background-color: #fff5f7;
-  }
-
-  .md\:bg-pink-200 {
-    background-color: #fed7e2;
-  }
-
-  .md\:bg-pink-300 {
-    background-color: #fbb6ce;
-  }
-
-  .md\:bg-pink-400 {
-    background-color: #f687b3;
-  }
-
-  .md\:bg-pink-500 {
-    background-color: #ed64a6;
-  }
-
-  .md\:bg-pink-600 {
-    background-color: #d53f8c;
-  }
-
-  .md\:bg-pink-700 {
-    background-color: #b83280;
-  }
-
-  .md\:bg-pink-800 {
-    background-color: #97266d;
-  }
-
-  .md\:bg-pink-900 {
-    background-color: #702459;
+  .md\:bg-pink {
+    background-color: #BC3A80;
   }
 
   .md\:bg-primary {
@@ -23026,40 +22802,8 @@ video {
     background-color: #44337a;
   }
 
-  .md\:hover\:bg-pink-100:hover {
-    background-color: #fff5f7;
-  }
-
-  .md\:hover\:bg-pink-200:hover {
-    background-color: #fed7e2;
-  }
-
-  .md\:hover\:bg-pink-300:hover {
-    background-color: #fbb6ce;
-  }
-
-  .md\:hover\:bg-pink-400:hover {
-    background-color: #f687b3;
-  }
-
-  .md\:hover\:bg-pink-500:hover {
-    background-color: #ed64a6;
-  }
-
-  .md\:hover\:bg-pink-600:hover {
-    background-color: #d53f8c;
-  }
-
-  .md\:hover\:bg-pink-700:hover {
-    background-color: #b83280;
-  }
-
-  .md\:hover\:bg-pink-800:hover {
-    background-color: #97266d;
-  }
-
-  .md\:hover\:bg-pink-900:hover {
-    background-color: #702459;
+  .md\:hover\:bg-pink:hover {
+    background-color: #BC3A80;
   }
 
   .md\:hover\:bg-primary:hover {
@@ -23418,40 +23162,8 @@ video {
     background-color: #44337a;
   }
 
-  .md\:focus\:bg-pink-100:focus {
-    background-color: #fff5f7;
-  }
-
-  .md\:focus\:bg-pink-200:focus {
-    background-color: #fed7e2;
-  }
-
-  .md\:focus\:bg-pink-300:focus {
-    background-color: #fbb6ce;
-  }
-
-  .md\:focus\:bg-pink-400:focus {
-    background-color: #f687b3;
-  }
-
-  .md\:focus\:bg-pink-500:focus {
-    background-color: #ed64a6;
-  }
-
-  .md\:focus\:bg-pink-600:focus {
-    background-color: #d53f8c;
-  }
-
-  .md\:focus\:bg-pink-700:focus {
-    background-color: #b83280;
-  }
-
-  .md\:focus\:bg-pink-800:focus {
-    background-color: #97266d;
-  }
-
-  .md\:focus\:bg-pink-900:focus {
-    background-color: #702459;
+  .md\:focus\:bg-pink:focus {
+    background-color: #BC3A80;
   }
 
   .md\:focus\:bg-primary:focus {
@@ -33436,40 +33148,8 @@ video {
     background-color: #44337a;
   }
 
-  .lg\:bg-pink-100 {
-    background-color: #fff5f7;
-  }
-
-  .lg\:bg-pink-200 {
-    background-color: #fed7e2;
-  }
-
-  .lg\:bg-pink-300 {
-    background-color: #fbb6ce;
-  }
-
-  .lg\:bg-pink-400 {
-    background-color: #f687b3;
-  }
-
-  .lg\:bg-pink-500 {
-    background-color: #ed64a6;
-  }
-
-  .lg\:bg-pink-600 {
-    background-color: #d53f8c;
-  }
-
-  .lg\:bg-pink-700 {
-    background-color: #b83280;
-  }
-
-  .lg\:bg-pink-800 {
-    background-color: #97266d;
-  }
-
-  .lg\:bg-pink-900 {
-    background-color: #702459;
+  .lg\:bg-pink {
+    background-color: #BC3A80;
   }
 
   .lg\:bg-primary {
@@ -33828,40 +33508,8 @@ video {
     background-color: #44337a;
   }
 
-  .lg\:hover\:bg-pink-100:hover {
-    background-color: #fff5f7;
-  }
-
-  .lg\:hover\:bg-pink-200:hover {
-    background-color: #fed7e2;
-  }
-
-  .lg\:hover\:bg-pink-300:hover {
-    background-color: #fbb6ce;
-  }
-
-  .lg\:hover\:bg-pink-400:hover {
-    background-color: #f687b3;
-  }
-
-  .lg\:hover\:bg-pink-500:hover {
-    background-color: #ed64a6;
-  }
-
-  .lg\:hover\:bg-pink-600:hover {
-    background-color: #d53f8c;
-  }
-
-  .lg\:hover\:bg-pink-700:hover {
-    background-color: #b83280;
-  }
-
-  .lg\:hover\:bg-pink-800:hover {
-    background-color: #97266d;
-  }
-
-  .lg\:hover\:bg-pink-900:hover {
-    background-color: #702459;
+  .lg\:hover\:bg-pink:hover {
+    background-color: #BC3A80;
   }
 
   .lg\:hover\:bg-primary:hover {
@@ -34220,40 +33868,8 @@ video {
     background-color: #44337a;
   }
 
-  .lg\:focus\:bg-pink-100:focus {
-    background-color: #fff5f7;
-  }
-
-  .lg\:focus\:bg-pink-200:focus {
-    background-color: #fed7e2;
-  }
-
-  .lg\:focus\:bg-pink-300:focus {
-    background-color: #fbb6ce;
-  }
-
-  .lg\:focus\:bg-pink-400:focus {
-    background-color: #f687b3;
-  }
-
-  .lg\:focus\:bg-pink-500:focus {
-    background-color: #ed64a6;
-  }
-
-  .lg\:focus\:bg-pink-600:focus {
-    background-color: #d53f8c;
-  }
-
-  .lg\:focus\:bg-pink-700:focus {
-    background-color: #b83280;
-  }
-
-  .lg\:focus\:bg-pink-800:focus {
-    background-color: #97266d;
-  }
-
-  .lg\:focus\:bg-pink-900:focus {
-    background-color: #702459;
+  .lg\:focus\:bg-pink:focus {
+    background-color: #BC3A80;
   }
 
   .lg\:focus\:bg-primary:focus {
@@ -44238,40 +43854,8 @@ video {
     background-color: #44337a;
   }
 
-  .xl\:bg-pink-100 {
-    background-color: #fff5f7;
-  }
-
-  .xl\:bg-pink-200 {
-    background-color: #fed7e2;
-  }
-
-  .xl\:bg-pink-300 {
-    background-color: #fbb6ce;
-  }
-
-  .xl\:bg-pink-400 {
-    background-color: #f687b3;
-  }
-
-  .xl\:bg-pink-500 {
-    background-color: #ed64a6;
-  }
-
-  .xl\:bg-pink-600 {
-    background-color: #d53f8c;
-  }
-
-  .xl\:bg-pink-700 {
-    background-color: #b83280;
-  }
-
-  .xl\:bg-pink-800 {
-    background-color: #97266d;
-  }
-
-  .xl\:bg-pink-900 {
-    background-color: #702459;
+  .xl\:bg-pink {
+    background-color: #BC3A80;
   }
 
   .xl\:bg-primary {
@@ -44630,40 +44214,8 @@ video {
     background-color: #44337a;
   }
 
-  .xl\:hover\:bg-pink-100:hover {
-    background-color: #fff5f7;
-  }
-
-  .xl\:hover\:bg-pink-200:hover {
-    background-color: #fed7e2;
-  }
-
-  .xl\:hover\:bg-pink-300:hover {
-    background-color: #fbb6ce;
-  }
-
-  .xl\:hover\:bg-pink-400:hover {
-    background-color: #f687b3;
-  }
-
-  .xl\:hover\:bg-pink-500:hover {
-    background-color: #ed64a6;
-  }
-
-  .xl\:hover\:bg-pink-600:hover {
-    background-color: #d53f8c;
-  }
-
-  .xl\:hover\:bg-pink-700:hover {
-    background-color: #b83280;
-  }
-
-  .xl\:hover\:bg-pink-800:hover {
-    background-color: #97266d;
-  }
-
-  .xl\:hover\:bg-pink-900:hover {
-    background-color: #702459;
+  .xl\:hover\:bg-pink:hover {
+    background-color: #BC3A80;
   }
 
   .xl\:hover\:bg-primary:hover {
@@ -45022,40 +44574,8 @@ video {
     background-color: #44337a;
   }
 
-  .xl\:focus\:bg-pink-100:focus {
-    background-color: #fff5f7;
-  }
-
-  .xl\:focus\:bg-pink-200:focus {
-    background-color: #fed7e2;
-  }
-
-  .xl\:focus\:bg-pink-300:focus {
-    background-color: #fbb6ce;
-  }
-
-  .xl\:focus\:bg-pink-400:focus {
-    background-color: #f687b3;
-  }
-
-  .xl\:focus\:bg-pink-500:focus {
-    background-color: #ed64a6;
-  }
-
-  .xl\:focus\:bg-pink-600:focus {
-    background-color: #d53f8c;
-  }
-
-  .xl\:focus\:bg-pink-700:focus {
-    background-color: #b83280;
-  }
-
-  .xl\:focus\:bg-pink-800:focus {
-    background-color: #97266d;
-  }
-
-  .xl\:focus\:bg-pink-900:focus {
-    background-color: #702459;
+  .xl\:focus\:bg-pink:focus {
+    background-color: #BC3A80;
   }
 
   .xl\:focus\:bg-primary:focus {

@@ -8,7 +8,7 @@ const Discover = () => {
 
   return (
     <>
-    <div className="md:flex px-2 md:px-20 pt-32 pb-24">
+    <div id="discover" className="md:flex px-2 md:px-20 pt-32 pb-24">
     
             <div class="flex-wrap mb:16 w-full md:w-1/2 min-h-full text-center md:text-left">
             <h1 className="text-white text-3xl md:text-5xl font-light">Discover new music</h1>

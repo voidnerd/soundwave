@@ -1,7 +1,11 @@
-import React from 'react';
-import logo from '../assets/logo.svg';
+import React, { useState } from "react";
+
+
 
 const Header = () => {
+
+  const [isExpanded, toggleExpansion] = useState(false);
+
   return (
   <nav className="flex items-center justify-between flex-wrap px-3 md:px-20 pt-1">
     <div className="flex items-center flex-shrink-0 text-white mr-6">
@@ -31,21 +35,23 @@ const Header = () => {
           </linearGradient>
           </defs>
         </svg>
-        <span className="font-semibold text-sm md:text-xl tracking-tight pl-2">Soundwave</span>
+        <span className="font-semibold text-sm md:text-xl tracking-tight pl-2">Soundwave  </span>
     </div>
     <div className="block lg:hidden">
-      <button className="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white">
+      <button className="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white"
+      onClick={() => toggleExpansion(!isExpanded)} >
         <svg className="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
       </button>
     </div>
-    <div className="hidden lg:block">
-          <ul className="inline-flex">
+    <div className={ (isExpanded ? 'block' : 'hidden'
+     ) + " lg:block w-full md:w-1/5 pb-2" } >
+          <ul className="flex mt-4 md:mt-0 md:inline-flex">
            
-            <li>
-              <a className="px-4 text-white" href="#">Discover</a>
+            <li className="w-full text-center">
+              <a className="px-4 text-white" onClick={() => toggleExpansion(!isExpanded)} href="#discover">Discover</a>
             </li>
-            <li>
-              <a className="px-4 text-white" href="#">Join</a>
+            <li className="w-full text-center">
+              <a className="px-4 text-white" onClick={() => toggleExpansion(!isExpanded)} href="#join">Join</a>
             </li>
           </ul>
       </div>
