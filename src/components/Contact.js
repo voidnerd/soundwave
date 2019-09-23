@@ -14,8 +14,8 @@ const Contact = () => {
   
             </div>
             <div className="flex-1 flex-wrap  min-h-full relative">
-                <div className="bg-inverse pt-3 pb-2">
-                    <form className="shadow-md rounded px-8 pt-6 pb-8 mb-4">
+                <div className="bg-inverse pt-3 pb-2 rounded">
+                    <form className="px-8 pt-6 pb-6 mb-4">
                         <div className="mb-4">
                             <label className="block text-white text-sm font-bold mb-2" for="username">
                                 Name:
