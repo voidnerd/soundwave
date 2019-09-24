@@ -21,6 +21,9 @@ module.exports = {
               },
               fontFamily: {
                   'poppins': ['Poppins', 'sans-serif'],
+              },
+              borderColor: {
+                secondary: "#1762A7",
               }
 
         }

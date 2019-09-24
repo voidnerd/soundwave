@@ -2227,6 +2227,10 @@ video {
   border-color: #702459;
 }
 
+.border-secondary {
+  border-color: #1762A7;
+}
+
 .hover\:border-transparent:hover {
   border-color: transparent;
 }
@@ -2599,6 +2603,10 @@ video {
   border-color: #702459;
 }
 
+.hover\:border-secondary:hover {
+  border-color: #1762A7;
+}
+
 .focus\:border-transparent:focus {
   border-color: transparent;
 }
@@ -2969,6 +2977,10 @@ video {
 
 .focus\:border-pink-900:focus {
   border-color: #702459;
+}
+
+.focus\:border-secondary:focus {
+  border-color: #1762A7;
 }
 
 .rounded-none {
@@ -12932,6 +12944,10 @@ video {
     border-color: #702459;
   }
 
+  .sm\:border-secondary {
+    border-color: #1762A7;
+  }
+
   .sm\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -13304,6 +13320,10 @@ video {
     border-color: #702459;
   }
 
+  .sm\:hover\:border-secondary:hover {
+    border-color: #1762A7;
+  }
+
   .sm\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -13674,6 +13694,10 @@ video {
 
   .sm\:focus\:border-pink-900:focus {
     border-color: #702459;
+  }
+
+  .sm\:focus\:border-secondary:focus {
+    border-color: #1762A7;
   }
 
   .sm\:rounded-none {
@@ -23638,6 +23662,10 @@ video {
     border-color: #702459;
   }
 
+  .md\:border-secondary {
+    border-color: #1762A7;
+  }
+
   .md\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -24010,6 +24038,10 @@ video {
     border-color: #702459;
   }
 
+  .md\:hover\:border-secondary:hover {
+    border-color: #1762A7;
+  }
+
   .md\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -24380,6 +24412,10 @@ video {
 
   .md\:focus\:border-pink-900:focus {
     border-color: #702459;
+  }
+
+  .md\:focus\:border-secondary:focus {
+    border-color: #1762A7;
   }
 
   .md\:rounded-none {
@@ -34344,6 +34380,10 @@ video {
     border-color: #702459;
   }
 
+  .lg\:border-secondary {
+    border-color: #1762A7;
+  }
+
   .lg\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -34716,6 +34756,10 @@ video {
     border-color: #702459;
   }
 
+  .lg\:hover\:border-secondary:hover {
+    border-color: #1762A7;
+  }
+
   .lg\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -35086,6 +35130,10 @@ video {
 
   .lg\:focus\:border-pink-900:focus {
     border-color: #702459;
+  }
+
+  .lg\:focus\:border-secondary:focus {
+    border-color: #1762A7;
   }
 
   .lg\:rounded-none {
@@ -45050,6 +45098,10 @@ video {
     border-color: #702459;
   }
 
+  .xl\:border-secondary {
+    border-color: #1762A7;
+  }
+
   .xl\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -45422,6 +45474,10 @@ video {
     border-color: #702459;
   }
 
+  .xl\:hover\:border-secondary:hover {
+    border-color: #1762A7;
+  }
+
   .xl\:focus\:border-transparent:focus {
     border-color: transparent;
   }
@@ -45792,6 +45848,10 @@ video {
 
   .xl\:focus\:border-pink-900:focus {
     border-color: #702459;
+  }
+
+  .xl\:focus\:border-secondary:focus {
+    border-color: #1762A7;
   }
 
   .xl\:rounded-none {

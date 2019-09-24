@@ -3,7 +3,7 @@ import React from 'react';
 import Header from '../components/Header';
 import Hero from '../components/Hero';
 import Discover from '../components/Discover';
-import Contact from '../components/Contact';
+import Join from '../components/Join';
 import Footer from '../components/Footer';
 
 const Landing = () => {
@@ -12,7 +12,7 @@ const Landing = () => {
     <Header />
     <Hero />
     <Discover />
-    <Contact />
+    <Join />
     <Footer />
     </>
   );

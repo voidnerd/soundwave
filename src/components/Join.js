@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const Contact = () => {
+const Join = () => {
 
   return (
     <>
@@ -20,19 +20,19 @@ const Contact = () => {
                             <label className="block text-white text-sm font-bold mb-2" for="username">
                                 Name:
                             </label>
-                            <input className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="username" type="text" placeholder="Ndfreke Friday" />
+                            <input className="shadow appearance-none  bg-transparent border rounded w-full py-2 px-3 text-white leading-tight focus:outline-none focus:shadow-outline" id="username" type="text" placeholder="Ndfreke Friday" />
                         </div>
                         <div className="mb-4">
                             <label className="block text-white text-sm font-bold mb-2" for="username">
                                 Email:
                             </label>
-                            <input className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="email" type="text" placeholder="example@example.com" />
+                            <input className="shadow appearance-none  bg-transparent border rounded w-full py-2 px-3 text-white leading-tight focus:outline-none focus:shadow-outline" id="email" type="text" placeholder="example@example.com" />
                         </div>
                         <div className="mb-6">
                         <label className="block text-white text-sm font-bold mb-2" for="password">
                             Password:
                         </label>
-                        <input className="shadow appearance-none border border-secondary rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline" id="password" type="password" placeholder="******************" />
+                        <input className="shadow appearance-none border bg-transparent rounded w-full py-2 px-3 text-white mb-3 leading-tight focus:outline-none focus:shadow-outline" id="password" type="password" placeholder="******************" />
         
                         </div>
                         <div className="flex items-center justify-between">
@@ -52,4 +52,4 @@ const Contact = () => {
   );
 }
 
-export default Contact;
+export default Join;
